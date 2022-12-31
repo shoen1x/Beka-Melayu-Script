@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center"><strong>Beka Melayu Typeface - Modernized version<strong></h1>
     <a href="https://github.com/shoen1x/Beka-Melayu-Script/">
-        <img src="nm_suratberingin.gif" alt="original handwritten style font" width="44" height="189">
+        <img src="nm_suratberingin.png" alt="original handwritten style font" width="44" height="189">
     </a>
   <p align="center">
     Beka Melayu Typeface based on surat beringin script, modernized version with rounded sans serif like style for font structures, WIP.
@@ -13,7 +13,7 @@
     </a>
   </p>
     <a align="center" href="https://github.com/shoen1x/Beka-Melayu-Script/">
-        <img src="smp_suratberingin.gif" alt="original handwritten style font" width="576" height="575">
+        <img src="smp_suratberingin.png" alt="original handwritten style font" width="576" height="575">
     </a>
     <br />
 </div>
@@ -51,7 +51,7 @@
 Original typeface was based on Surat Beringin script. Surat Beringin is a way to write Beka Malayu, a version of Malay from which non-Austronesian elements have been removed and replaced with words based on Austronesian roots.
 
 <div align="center" href="https://github.com/shoen1x/Beka-Melayu-Script/">
-        <img src="suratberingin.gif" alt="original handwritten style font" width="633" height="847">
+        <img src="suratberingin.png" alt="original handwritten style font" width="633" height="847">
     </div>
 
 <br />
