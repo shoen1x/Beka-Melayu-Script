@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nonmarkingreturn.1" format="2">
+  <advance width="250"/>
+  <unicode hex="000D"/>
+</glyph>
