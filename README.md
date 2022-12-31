@@ -12,14 +12,6 @@
     href="https://omniglot.com/conscripts/suratberingin.htm"><strong>Original Project index</strong>
     </a>
   </p>
-    <a align="center" href="https://github.com/shoen1x/Beka-Melayu-Script/">
-        <img src="images/suratberingin2.webp" alt="original handwritten style font" width="576" height="575">
-    </a>
-      <p align="center">
-      <br />
-"Telah melihat bebiri yang tidak mempunyai bulu akan didikan. Membawa seekor darinya gerabak yang berat. Membawa seekor yang lain beban yang besar. Dan membawa seekor lagi orang dengan cepat. Bertutur bebiri ke para didikan: "Menyakitiku hatiku. Melihat aku penunggang didikan.". Bertutur para didikan. "Dengarkan dami bebiri. Menyakitimi hatimi. Kapan melihat kami ini. Membuat orang dan ketua kekabu bebiri ke pakaian hangat untuk dirinya. Dan tidak ada bebiri itu bulunya.". Selepas mendengar ini, melarikan diri bebiri itu ke dataran."
-  </p>
-    <br />
 </div>
 <br />
 
