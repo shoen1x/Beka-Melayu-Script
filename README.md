@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center"><strong>Beka Melayu Typeface - Modernized version<strong></h1>
     <a href="https://github.com/shoen1x/Beka-Melayu-Script/">
-        <img src="images/suratberingin_header.webp" alt="original handwritten style font" width="44" height="189">
+        <img src="images/suratberingin_header.png" alt="original handwritten style font" width="44" height="189">
     </a>
   <p align="center">
     Beka Melayu Typeface based on surat beringin script, modernized version with rounded sans serif like style for font structures, WIP.
@@ -13,8 +13,12 @@
     </a>
   </p>
     <a align="center" href="https://github.com/shoen1x/Beka-Melayu-Script/">
-        <img src="images/suratberingin_example.webp" alt="original handwritten style font" width="576" height="575">
+        <img src="images/suratberingin_example.png" alt="original handwritten style font" width="576" height="575">
     </a>
+      <p align="center">
+      <br />
+"Telah melihat bebiri yang tidak mempunyai bulu akan didikan. Membawa seekor darinya gerabak yang berat. Membawa seekor yang lain beban yang besar. Dan membawa seekor lagi orang dengan cepat. Bertutur bebiri ke para didikan: "Menyakitiku hatiku. Melihat aku penunggang didikan.". Bertutur para didikan. "Dengarkan dami bebiri. Menyakitimi hatimi. Kapan melihat kami ini. Membuat orang dan ketua kekabu bebiri ke pakaian hangat untuk dirinya. Dan tidak ada bebiri itu bulunya.". Selepas mendengar ini, melarikan diri bebiri itu ke dataran."
+  </p>
     <br />
 </div>
 <br />
@@ -51,7 +55,7 @@
 Original typeface was based on Surat Beringin script. Surat Beringin is a way to write Beka Malayu, a version of Malay from which non-Austronesian elements have been removed and replaced with words based on Austronesian roots.
 
 <div align="center" href="https://github.com/shoen1x/Beka-Melayu-Script/">
-        <img src="images/suratberingin_alphabet.webp" alt="original handwritten style font" width="633" height="847">
+        <img src="images/suratberingin_alphabet.png" alt="original handwritten style font" width="633" height="847">
     </div>
 
 <br />
