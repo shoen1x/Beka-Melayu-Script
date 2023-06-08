@@ -16,6 +16,12 @@
 <br />
 
 <!-- Contents -->
+## Update
+<h2>This project will not receiving anymore updates in future! Create new pull request if you want to include your changes. TQ</h2>
+
+</br>
+
+<!-- Contents -->
 <details>
   <summary>Contents</summary>
   <ol>
