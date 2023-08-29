@@ -1,25 +1,21 @@
-<a name="readme-top"></a>
-
 <div align="center">
 <h1 align="center"><strong>Beka Melayu Typeface - Modernized version<strong></h1>
-    <a href="https://github.com/shoen1x/Beka-Melayu-Script/">
-        <img src="images/suratberingin1.webp" alt="original handwritten style font" width="44" height="189">
-    </a>
+  <a href="https://github.com/shoen1x/Beka-Melayu-Script/">
+      <img src="images/beka-melayu-header.png" alt="Beka Melayu NMVX">
+  </a>
   <p align="center">
     Beka Melayu Typeface based on surat beringin script, modernized version with rounded sans serif like style for font structures, WIP.
-    <br />
-    <a 
-    href="https://omniglot.com/conscripts/suratberingin.htm"><strong>Original Project index</strong>
-    </a>
   </p>
+  <a 
+    href="https://omniglot.com/conscripts/suratberingin.htm"><strong>Original Project source</strong>
+  </a>
 </div>
-<br />
 
 <!-- Contents -->
 ## Update
-<h2>This project will not receiving anymore updates in future! Create new pull request if you want to include your changes. TQ</h2>
+<p>This project will not receiving anymore updates in future! Create new pull request if you want to include your changes. TQ</p>
 
-</br>
+<p>*** This readme was translated using <strong>Google Translate</strong></p>
 
 <!-- Contents -->
 <details>
@@ -36,13 +32,17 @@
 <!-- ROADMAP -->
 ## Roadmap
 
+<div align="center">
+  <img src="images/suratberingin1.webp" alt="Beka Melayu Insignias">
+</div>
+
 - Base concept and stylization
     - Conceptual design into working environment
         - Reconverted into SVG working format
     - Handmade redesign based on rounded sans serif style fonts
-        - Review needed
-- Non changes to missing original concept in alphabet table, stick to original conceptual font made by original authors
-- Repackages the glif files (*Glyph)
+        - Review needed ( General review passed early test )
+- minor alteration using `Sans` based design to missing original concept in alphabet table, stick to original conceptual font as much as possible
+- Repackages the `glif` files ( `*Glyph` )
 - Non-vital files and core project files was .gitignores in repositories
 
 <br />
