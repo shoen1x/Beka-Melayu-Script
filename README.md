@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"><strong>Beka Melayu Typeface - Modernized version<strong></h1>
   <a href="https://github.com/shoen1x/Beka-Melayu-Script/">
-      <img src="images/beka-melayu-wallpaper.webp" alt="Beka Melayu NMVX">
+      <img src="images/beka-melayu-header.webp" alt="Beka Melayu NMVX">
   </a>
   <p align="center">
     Beka Melayu Typeface based on surat beringin script, modernized version with rounded sans serif like style for font structures, WIP.
